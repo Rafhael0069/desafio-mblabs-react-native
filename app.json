@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "desafio-mblabs-react-native",
+    "slug": "desafio-mblabs-react-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
