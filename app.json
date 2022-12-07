@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "desafio-mblabs-react-native",
-    "slug": "desafio-mblabs-react-native",
+    "name": "MyCourses",
+    "slug": "MyCourses",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
